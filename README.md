@@ -7,3 +7,4 @@ This project is based on the original simulation environment of the pixhawk firm
 And modify the model to make it quilify for the project so the hils can work.
 Just create any gazebo world that key points are recognizable and run with the openaihawk
 
+![](Missile-Research/replica_FDC.png)
